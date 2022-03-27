@@ -6,7 +6,7 @@
 
 
 
-#### the portfolio link to github:
+#### the portfolio link to github: https://evegyzbirun.github.io/portfolio/
 
 ## Technologies Used:
 * VS code
