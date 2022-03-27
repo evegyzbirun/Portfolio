@@ -2,7 +2,7 @@
 
 #### by _**(Evgeny Zbirun)**_
 
-#### The application descripe Evgeny's portfolio which incudes: about me, background, lsit of projects from Github, list of hobbies and interests.
+#### The application describe Evgeny's portfolio which includes: about me, background, list of projects from Github, list of hobbies and interests.
 
 
 
@@ -10,7 +10,7 @@
 
 ## Technologies Used:
 * VS code
-* Git consol
+* Git console
 * Html with image and css
 
 ## Setup instructions
