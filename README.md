@@ -15,9 +15,8 @@
 
 ## Setup instructions
 
-1. download from github link
-2. unzip
-3. open with Visual Studio Code or some other editor that read html and css.
+* The project is about Evgeny's portfolio that shares with us about his background and list of projects on Github.
+You can use it as an example to create your own portfolio.
 
 
 ## Known bugs
